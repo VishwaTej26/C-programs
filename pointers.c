@@ -1,0 +1,1 @@
+int *ptr = num1
